@@ -20,13 +20,6 @@
 
 ***
 
-### _Como Funciona :_                                                       
-[Video 1](https://www.youtube.com/watch?v=GU67Z63wOJ4)<br>
-[Video 2](https://www.youtube.com/watch?v=xafPqcy3lwk)<br>
-[Video 3](https://www.youtube.com/watch?v=FrlpMx0Kzfw)
-
-***
-
 ### _Testimonios :_
 [Video 1](https://www.youtube.com/watch?v=uv8BlsdtP6Y)<br>
 [Video 2](https://www.youtube.com/watch?v=iaLrlfAZrOA)<br>
