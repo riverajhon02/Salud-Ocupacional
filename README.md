@@ -43,11 +43,6 @@ Una primera investigación posterior sobre el origen de esta enfermedad, publica
 
 ***
 
-### _Como Prevenir :_
-[Video 1](https://www.youtube.com/watch?v=UbfJIx0nQ7A)
-
-***
-
 ## **Corona virus (Covid-19):**
 
 <br>La OMS está monitoreando y respondiendo continuamente a este brote. Estas preguntas y respuestas se actualizarán a medida que se conozcan más datos sobre la COVID‑19, su modo de propagación y la forma en que está afectando a las personas en todo el mundo.
@@ -73,3 +68,10 @@ Los coronavirus son una extensa familia de virus que pueden causar enfermedades 
 La mayoría de las personas (alrededor del 80%) se recuperan de la enfermedad sin necesidad de tratamiento hospitalario. Alrededor de 1 de cada 5 personas que contraen la COVID‑19 acaba presentando un cuadro grave y experimenta dificultades para respirar. Las personas mayores y las que padecen afecciones médicas previas como hipertensión arterial, problemas cardiacos o pulmonares, diabetes o cáncer tienen más probabilidades de presentar cuadros graves.
 
 ![](/Imagenes/imagen2.png)
+
+***
+
+### _Como Prevenir :_
+[Video 1](https://www.youtube.com/watch?v=UbfJIx0nQ7A)
+
+***
