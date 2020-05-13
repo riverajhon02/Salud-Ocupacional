@@ -14,8 +14,6 @@
 
 ![](https://cdn.aarp.net/content/dam/aarp/health/conditions_treatments/2020/02/1140-corona-virus-image-esp.imgcache.rev8d27c5f734653f4c44d2796922cf7794.jpg)
 
-----
-
 ***
 ### _Informacion :_
 [Estadisticas](https://news.google.com/covid19/map?hl=es-419&mid=/m/01ls2&gl=CO&ceid=CO:es-419)
