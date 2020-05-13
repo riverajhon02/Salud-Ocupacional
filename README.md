@@ -86,7 +86,7 @@ En pocas semanas la economía mundial está sufriendo los terribles efectos de u
 
 Instituciones económicas de ámbito internacional se han pronunciado sobre la crisis económica que se está derivando, planteando proyecciones sobre lo que puede ocurrir dentro de un escenario repleto de incertidumbres, y proponiendo respuestas al gran desafío mundial.
 
-![](/Imagenes/descarga.png)
+![](https://ichef.bbci.co.uk/news/410/cpsprodpb/11AC2/production/_111368327_coronavirus_travel_restrictions_640_spanish-nc.png)
 
 De ese modo, la conferencia de las Naciones Unidas sobre Comercio y Desarrollo (UNCTAD) ha reconocido que la duración y la profundidad de la crisis va a depender de tres variables a considerar; en primer lugar, cuál va a ser la rapidez de propagación del virus; en segundo término, cuánto tiempo va a transcurrir hasta que se encuentre la vacuna, y por último, cuánto será el grado de eficacia de los responsables de diseñar políticas para mitigar los daños de índole física y económica.
 
@@ -94,4 +94,20 @@ No cabe duda que las tres variables apuntadas por la UNCTAD están rodeadas de i
 
 La UNCTAD establece dos lecturas respecto a las consecuencias económicas del COVID-19.
 
+![](https://ichef.bbci.co.uk/news/410/cpsprodpb/8E86/production/_111368463_oecd_growth_spanish-nc.png)
+
+***
+### _Muertes:_
+
+ La estadística muestra el número de muertes causadas por el coronavirus de Wuhan (COVID-19) a nivel mundial a fecha de 13 de mayo de 2020. Hasta ese día se habían contabilizado más de 290.000 muertes debidas al virus, de las cuales 4.633 ocurrieron en China, lugar en el que se originó el virus. Sin embargo, el país asiático ya no es el territorio donde el nuevo coronavirus se ha cobrado más vidas. Estados Unidos encabeza la clasificación al superar los 83.400 decesos, seguido de Reino Unido con alrededor de 32.700. A 13 de mayo de 2020, había más de cuatro millones de casos confirmados de COVID-19 en todo el mundo.
+ Es tal impacto de las muertes por covid en el mundo que en paises como EEUU han tomado la decisión de hacer fosas comununes en desiertos, porque ya no 
+ nichos y bobedas disponibles.
+
+ ![](https://www.dw.com/image/53055270_303.jpg)
+***
+### _En esta pagina podemos seguir el minuto a minuto de las muertes por covid_
+
+[covid-19 en el mundo](https://en.wikipedia.org/wiki/Template:COVID-19_pandemic_data)
+
+***
 
