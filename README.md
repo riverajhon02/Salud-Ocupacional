@@ -25,14 +25,6 @@
 El nuevo coronavirus Covid-19 tuvo su origen en la ciudad de wuhan, en China. A mediados del mes de diciembre de 2019, las autoridades sanitarias de Wuhan detectaron una serie de casos de neumonía producida por una causa desconocida.
 
 ![](/Imagenes/imagen4.jpg)
-***
-
-### _Testimonios :_
-[Video 1](https://www.youtube.com/watch?v=uv8BlsdtP6Y)<br>
-[Video 2](https://www.youtube.com/watch?v=iaLrlfAZrOA)<br>
-[Video 3](https://www.youtube.com/watch?v=DrIy5fHtSO0)
-
-***
 
 En ese momento se originó una alarma sobre una nueva enfermedad desconocida hasta el momento. Tres meses después se han producido más de 150.000 casos y cerca de 6.000 muertos en todo el mundo, según los datos del Centro Europeo para el Control de Enfermedades (ECDC, por sus siglas en inglés).
 
@@ -40,6 +32,13 @@ En ese momento se originó una alarma sobre una nueva enfermedad desconocida has
 Una primera investigación posterior sobre el origen de esta enfermedad, publicada en la revista The Lancet, determinó que se trataba de un nuevo tipo de virus, de la familia Coronavidae, emparentado con el Síndrome Respiratorio Agudo Severo (SARS) y con el Síndrome Respiratorio de Oriente Medio (MERS) pero que no es igual a ninguno de ellos. Para averiguarlo estudiaron 10 muestras genéticas tomadas de pacientes procedentes de Wuhan que incluía ocho genomas completos y dos genomas parciales
 
 ![](/Imagenes/imagen3.jpeg)
+
+***
+
+### _Testimonios :_
+[Video 1](https://www.youtube.com/watch?v=uv8BlsdtP6Y)<br>
+[Video 2](https://www.youtube.com/watch?v=iaLrlfAZrOA)<br>
+[Video 3](https://www.youtube.com/watch?v=DrIy5fHtSO0)
 
 ***
 
