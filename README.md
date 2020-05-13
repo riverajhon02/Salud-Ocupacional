@@ -20,7 +20,7 @@
 
 ***
 
-## **Origen:**
+## ***Origen:***
 <br>
 El nuevo coronavirus Covid-19 tuvo su origen en la ciudad de wuhan, en China. A mediados del mes de diciembre de 2019, las autoridades sanitarias de Wuhan detectaron una serie de casos de neumonía producida por una causa desconocida.
 
@@ -42,7 +42,7 @@ Una primera investigación posterior sobre el origen de esta enfermedad, publica
 
 ***
 
-## **Corona virus (Covid-19):**
+## ***Corona virus (Covid-19):***
 
 <br>La OMS está monitoreando y respondiendo continuamente a este brote. Estas preguntas y respuestas se actualizarán a medida que se conozcan más datos sobre la COVID‑19, su modo de propagación y la forma en que está afectando a las personas en todo el mundo.
 
@@ -61,7 +61,7 @@ Los coronavirus son una extensa familia de virus que pueden causar enfermedades 
 
 ***
 
-## **¿Cuáles son los síntomas de la COVID-19?**
+## ***¿Cuáles son los síntomas de la COVID-19?***
 <br>Los síntomas más habituales de la COVID-19 son la fiebre, la tos seca y el cansancio. Otros síntomas menos frecuentes que afectan a algunos pacientes son los dolores y molestias, la congestión nasal, el dolor de cabeza, la conjuntivitis, el dolor de garganta, la diarrea, la pérdida del gusto o el olfato y las erupciones cutáneas o cambios de color en los dedos de las manos o los pies. Estos síntomas suelen ser leves y comienzan gradualmente. Algunas de las personas infectadas solo presentan síntomas levísimos.
 
 La mayoría de las personas (alrededor del 80%) se recuperan de la enfermedad sin necesidad de tratamiento hospitalario. Alrededor de 1 de cada 5 personas que contraen la COVID‑19 acaba presentando un cuadro grave y experimenta dificultades para respirar. Las personas mayores y las que padecen afecciones médicas previas como hipertensión arterial, problemas cardiacos o pulmonares, diabetes o cáncer tienen más probabilidades de presentar cuadros graves.
@@ -73,4 +73,25 @@ La mayoría de las personas (alrededor del 80%) se recuperan de la enfermedad si
 ### _Como Prevenir :_
 [Video 1](https://www.youtube.com/watch?v=UbfJIx0nQ7A)
 
+![](https://www.unionguanajuato.mx/sites/default/files/styles/galeria/public/field/image/coronavirus-covid-19-para-ninos.jpg?itok=goD9nVUG)
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS35Mfw5in5bLp5PNcafRQ7_cidCsum5ffRqQTKzjVNJKOkCb7U&usqp=CAU)
 ***
+
+### _Impacto Mundial:_
+
+En plena era de la globalización, con un ritmo creciente del fenómeno desde finales del siglo XX, en la misma época de la economía digital y los más grandes avances en el campo de la inteligencia artificial, la humanidad se ha visto sorprendida por el ataque de un virus que ha supuesto una muy grave pandemia, con unas consecuencias terriblemente preocupantes y graves en términos de vidas humanas.
+
+En pocas semanas la economía mundial está sufriendo los terribles efectos de un virus que supone la pandemia más grave sufrida en el siglo XXI.
+
+Instituciones económicas de ámbito internacional se han pronunciado sobre la crisis económica que se está derivando, planteando proyecciones sobre lo que puede ocurrir dentro de un escenario repleto de incertidumbres, y proponiendo respuestas al gran desafío mundial.
+
+![](/Imagenes/descarga.png)
+
+De ese modo, la conferencia de las Naciones Unidas sobre Comercio y Desarrollo (UNCTAD) ha reconocido que la duración y la profundidad de la crisis va a depender de tres variables a considerar; en primer lugar, cuál va a ser la rapidez de propagación del virus; en segundo término, cuánto tiempo va a transcurrir hasta que se encuentre la vacuna, y por último, cuánto será el grado de eficacia de los responsables de diseñar políticas para mitigar los daños de índole física y económica.
+
+No cabe duda que las tres variables apuntadas por la UNCTAD están rodeadas de incertidumbres, pero todas ellas vendrán a su vez acompañadas de una cuarta variable, la sensación de ansiedad de las personas, que influirá notablemente en los resultados finales de la crisis.
+
+La UNCTAD establece dos lecturas respecto a las consecuencias económicas del COVID-19.
+
+
