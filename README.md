@@ -1,20 +1,46 @@
-# Salud-Ocupacional
-
-![](https://ichef.bbci.co.uk/news/720/cpsprodpb/4B4D/production/_111277291_gettyimages-1204224469.jpg)
+# Salud Ocupacional - _Covid - 19_
 
 ***
 
-## Integrantes del Grupo:
+### _Integrantes del grupo :_
 
-#### 1. Juan Santiago
+1. **Juan Santiago**
 
-#### 2. Mateo Balza
+1. **Mateo Balza**
 
-#### 3. Jhon Rivera
+1. **Jhon Rivera**
+
+***
+
+![](https://cdn.aarp.net/content/dam/aarp/health/conditions_treatments/2020/02/1140-corona-virus-image-esp.imgcache.rev8d27c5f734653f4c44d2796922cf7794.jpg)
 
 ----
-## **Origen:**
 
+***
+### _Informacion :_
+[Estadisticas](https://news.google.com/covid19/map?hl=es-419&mid=/m/01ls2&gl=CO&ceid=CO:es-419)
+
+***
+
+### _Como Funciona :_                                                       
+[Video 1](https://www.youtube.com/watch?v=GU67Z63wOJ4)<br>
+[Video 2](https://www.youtube.com/watch?v=xafPqcy3lwk)<br>
+[Video 3](https://www.youtube.com/watch?v=FrlpMx0Kzfw)
+
+***
+
+### _Testimonios :_
+[Video 1](https://www.youtube.com/watch?v=uv8BlsdtP6Y)<br>
+[Video 2](https://www.youtube.com/watch?v=iaLrlfAZrOA)<br>
+[Video 3](https://www.youtube.com/watch?v=DrIy5fHtSO0)
+
+***
+
+### _Como Prevenir :_
+[Video 1](https://www.youtube.com/watch?v=UbfJIx0nQ7A)
+
+***
+## **Origen:**
 <br>
 El nuevo coronavirus Covid-19 tuvo su origen en la ciudad de wuhan, en China. A mediados del mes de diciembre de 2019, las autoridades sanitarias de Wuhan detectaron una serie de casos de neumonía producida por una causa desconocida.
 
