@@ -107,6 +107,25 @@ La UNCTAD establece dos lecturas respecto a las consecuencias económicas del CO
 ***
 ### _En esta pagina podemos seguir el minuto a minuto de las muertes por covid_
 
+### _Covid 19 en Colombia:_
+En el reporte correspondiente a este jueves 14 de mayo se informaron 16 nuevas muertes por la enfermedad, con lo que ya hay 525 en total. También hay 3.358 pacientes recuperados y 13.610 casos de covid-19.
+
+![](https://static.iris.net.co/semana/upload/images/2020/5/13/671127_1.jpg)
+
+En el reporte del Ministerio de Salud de este jueves se registraron 680 casos de coronavirus en Colombia, cifra récord para un solo día, y ya se acumulan 13.610 casos de covid-19 y 525 muertes. En cuanto a los recuperados, hay 3.358 pacientes.
+
+La cifra de contagios es la más elevada para el país desde que se desató la pandemia. Los casos se reparten así: Bogotá (207), Cartagena (108), Valle (79), Barranquilla (66), Amazonas (53), Atlántico (49), Nariño (38), Magdalena (17), Santa Marta (16), Antioquia (10), Cundinamarca (9), Córdoba (9), Bolívar (7), Caldas (4), Risaralda (3), Boyacá (2), Meta (2) y Norte de Santander (1).
+En el Amazonas se mantuvo un elevado número de nuevos infectados y el plan del Gobierno nacional es generar estado de conmoción para atender la emergencia en este departamento.
+En las últimas 24 horas se procesaron 5.251 pruebas, la cantidad más baja en esta semana.
+
+![](https://pbs.twimg.com/media/EYAo6iRXYAAU8wm?format=jpg&name=900x900)
+
+
+
+
+
+
+
 [covid-19 en el mundo](https://en.wikipedia.org/wiki/Template:COVID-19_pandemic_data)
 
 ***
